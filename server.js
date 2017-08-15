@@ -13,8 +13,7 @@ app.use(morgan('combined'));
 
 var articles={
 
-
-    var 'article-one': {
+        'article-one': {
         
         title: "Article One | Twinkle Barot",
         heading: "Article One",
